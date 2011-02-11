@@ -1,2 +1,5 @@
+# mac files
+.DS_STORE
+
 # any accidental backups
 *.*~
