@@ -12,9 +12,9 @@ Registers custom post type "article", with category, tag, short-code and widget 
 This plugin does the "grunt" work for registering a custom post type called "article" with categories,
 tags, along with widget support and short-code features.
 
-This plugin is at aimed the user that wants to better orgainze their content, but not do all the server side code.
+This plugin is at aimed the user that wants to better organize their content, but not do all the server side code.
 I've done that for you, all that is left is some light "theming" via CSS. This plugin may seem redundant when compared to "posts", seeing 
-as how it has almost all the features of a post, but I'm attempting to seperate the "concept" of publishing "content" as a journal entry i.e. post
+as how it has almost all the features of a post, but I'm attempting to separate the "concept" of publishing "content" as a journal entry i.e. post
 versus a periodical i.e. article, hope others find it useful.
 
 Widget supports the following:
