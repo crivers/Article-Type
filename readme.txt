@@ -5,7 +5,7 @@ Donate link: http://zanematthew.com/donate/
 Tags: widget, article type, editorial, post, custom post type, custom taxonomies, short code, organization
 Requires at least: 3.0
 Tested up to: 3.0
-Stable tag: 1.0.2
+Stable tag: trunk
 
 Registers custom post type "article", with category, tag, short-code and widget support
 

@@ -10,7 +10,7 @@
  * Plugin Name: Article Type
  * Plugin URI: http://zmpbr.com/
  * Description: Registers custom post type "article", with category, tag, short-code and widget support
- * Version: 1.0.0
+ * Version: 1.0.2
  * Author: Zane M. Kolnik
  * Author URI: http://zanematthew.com/
  * License: GPL
