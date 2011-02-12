@@ -1,0 +1,3 @@
+2011-11-02
+e - add non-editable widget in "edit" section "editorial guidelines"
+e - dropdown should be live search input field
