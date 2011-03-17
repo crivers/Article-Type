@@ -1,3 +1,13 @@
+2011-17-03
+B - widget does not show olders article
+e - make it oo based, again
+
+2011-10-03
+e - add "foot notes" short code
+b - height and width in drop down should be reverse
+B - removing div around image NOT needed
+b - the word "category" should not print out X number of times
+
 2011-11-02
 e - add non-editable widget in "edit" section "editorial guidelines"
 e - dropdown should be live search input field
